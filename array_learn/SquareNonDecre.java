@@ -9,7 +9,7 @@ public class SquareNonDecre {
         Arrays.sort(A);
         return A;
     }
-
+    
     public static void main(String[] args) {
         int[] A = {-4,-1,1,3,5};
         sortedSquares(A);
