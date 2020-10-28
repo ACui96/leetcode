@@ -40,4 +40,4 @@ L-ROOT-R Binary search tree
 L-R-ROOT 
 Note that deletion is Post-order,also it is widely used in mathmaticalexpression.
 - Recursive or Iterative 递归或者迭代
-### 1.2 Pre-order Traversal
+### 1.2 Pre-order ch21Traversal

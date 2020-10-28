@@ -1,6 +1,7 @@
 #工作空间
 .vscode
 .idea
+*.iml
 # Compiled class file
 *.class
 
